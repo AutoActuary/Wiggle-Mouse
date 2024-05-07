@@ -18,7 +18,7 @@ Wiggle-Mouse is a lightweight utility designed to non-intrusively move the mouse
 2. Double-click the file to run it. A minimized command prompt window should open, and the script will start running.
 3. The script will now automatically wiggle the mouse cursor every 5 minutes to keep your Windows session active.
 
-### Autostart on Windows
+### Autostart Wiggle-Mouse.cmd
 If you want the script to run automatically when you start your computer:
 1. Press `Win + R` to open the Run dialog.
 2. Type `shell:startup` and press Enter to open the Startup folder.
