@@ -34,7 +34,6 @@ $Interval = 5 * 60 * 1000
 
 Write-Host "Your mouse will be wiggled every $($Interval/1000) seconds"
 
-# Infinite loop to keep the script running
 while ($true) {
     # Increase position
     $pos = [System.Windows.Forms.Cursor]::Position
