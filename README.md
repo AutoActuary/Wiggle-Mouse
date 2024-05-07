@@ -13,7 +13,7 @@ Wiggle-Mouse is a lightweight utility designed to non-intrusively move the mouse
 3. Click on `Wiggle-Mouse.cmd` to open the file view.
 4. Click the `Download` button to download the script to your local machine.
 
-### Run the Script
+### Run Wiggle-Mouse.cmd
 1. Locate the downloaded `Wiggle-Mouse.cmd` file on your computer (usually in your Downloads folder).
 2. Double-click the file to run it. A minimized command prompt window should open, and the script will start running.
 3. The script will now automatically wiggle the mouse cursor every 5 minutes to keep your Windows session active.
