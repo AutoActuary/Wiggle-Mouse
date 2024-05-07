@@ -2,6 +2,9 @@
 
 Wiggle-Mouse is a lightweight utility designed to non-intrusively move the mouse cursor every 5 minutes. This simple action prevents Windows session timeouts due to inactivity.
 
+- **Runs in the Background:** The utility opens a subprocess so you can run it from a pipeline without blocking the pipeline.
+- **Singleton Execution:** Ensures that multiple instances do not interfere with each other; running the script multiple times won't result in overlapping actions.
+- 
 ## Usage
 
 ### Download Wiggle-Mouse.cmd
