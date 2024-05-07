@@ -26,9 +26,6 @@ rem If only instance then run this in Powershell and keep alive after crashes
 goto loop
 #>
 
-# Powershell section of this script
-#$host.UI.RawUI.WindowTitle = "Autory Wiggle Mouse"
-
 # Load necessary assembly for using Forms and drawing
 Add-Type -AssemblyName System.Windows.Forms
 
